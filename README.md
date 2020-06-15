@@ -1,6 +1,6 @@
 # Animated-Boy-with-Cycle
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>Man With animated Cycle</title>
