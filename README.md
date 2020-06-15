@@ -1,7 +1,6 @@
-# Animated-Boy-with-Cycle
 <html>
     <head>
-        <title>Man With animated Cycle</title>
+        <title>Boy With animated Cycle</title>
     </head>
     <body>
 <svg
@@ -11,11 +10,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.3 (2405546)"
    Red turban:docname="boy with electric cycle.svg">
   <defs
      id="defs2" />
-  <Red turban:namedview
+  <bsv:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
